@@ -1,0 +1,7 @@
+*://*.cengji.com/*
+*://*.kknews.cc/*
+*://read01.com/*
+*://blog.csdn.net/*
+*://help.aliyun.com/wordpower/*
+*://cloud.tencent.com/developer/information/*
+*://www.liankexing.com/*
