@@ -6,3 +6,4 @@
 *://cloud.tencent.com/developer/information/*
 *://www.liankexing.com/*
 *://codebug.vip/*
+*://*.codebug.vip/*
