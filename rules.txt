@@ -7,3 +7,6 @@
 *://www.liankexing.com/*
 *://codebug.vip/*
 *://*.codebug.vip/*
+*://stackoom.com/*
+*://*.developreference.com/*
+*://developreference.com/*
